@@ -1,0 +1,1 @@
+# snakecase-and-pascalcase
